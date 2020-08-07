@@ -1,1607 +1,1928 @@
 [
   {
     "Country": "Afghanistan",
-    "Code": 993,
+    "CodeNumber": 993,
+    "CodeString": "+993",
     "Length": 9
   },
   {
     "Country": "Åland Islands",
-    "Code": 358,
+    "CodeNumber": 358,
+    "CodeString": "+358",
     "Length": 10
   },
   {
     "Country": "Albania",
-    "Code": 355,
+    "CodeNumber": 355,
+    "CodeString": "+355",
     "Length": 9
   },
   {
     "Country": "Algeria",
-    "Code": 213,
+    "CodeNumber": 213,
+    "CodeString": "+213",
     "Length": 9
   },
   {
     "Country": "American Samoa",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Andorra",
-    "Code": 376,
+    "CodeNumber": 376,
+    "CodeString": "+376",
     "Length": 0
   },
   {
     "Country": "Angola",
-    "Code": 244,
+    "CodeNumber": 244,
+    "CodeString": "+244",
     "Length": 0
   },
   {
     "Country": "Anguilla",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Antigua and Barbuda",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Argentina",
-    "Code": 54,
+    "CodeNumber": 54,
+    "CodeString": "+54",
     "Length": 0
   },
   {
     "Country": "Armenia",
-    "Code": 374,
+    "CodeNumber": 374,
+    "CodeString": "+374",
     "Length": 6
   },
   {
     "Country": "Aruba",
-    "Code": 297,
+    "CodeNumber": 297,
+    "CodeString": "+297",
     "Length": 7
   },
   {
     "Country": "Ascension Island",
-    "Code": 247,
+    "CodeNumber": 247,
+    "CodeString": "+247",
     "Length": 0
   },
   {
     "Country": "Australia",
-    "Code": 61,
+    "CodeNumber": 61,
+    "CodeString": "+61",
     "Length": 9
   },
   {
     "Country": "Australian Antarctic Territory",
-    "Code": 672,
+    "CodeNumber": 672,
+    "CodeString": "+672",
     "Length": 9
   },
   {
     "Country": "Austria",
-    "Code": 43,
+    "CodeNumber": 43,
+    "CodeString": "+43",
     "Length": 10
   },
   {
     "Country": "Austria",
-    "Code": 43,
+    "CodeNumber": 43,
+    "CodeString": "+43",
     "Length": 11
   },
   {
     "Country": "Azerbaijan",
-    "Code": 994,
+    "CodeNumber": 994,
+    "CodeString": "+994",
     "Length": 9
   },
   {
     "Country": "Bahamas",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Bahrain",
-    "Code": 973,
+    "CodeNumber": 973,
+    "CodeString": "+973",
     "Length": 8
   },
   {
     "Country": "Bangladesh",
-    "Code": 880,
+    "CodeNumber": 880,
+    "CodeString": "+880",
     "Length": 10
   },
   {
     "Country": "Barbados",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Belarus",
-    "Code": 375,
+    "CodeNumber": 375,
+    "CodeString": "+375",
     "Length": 9
   },
   {
     "Country": "Belgium",
-    "Code": 32,
+    "CodeNumber": 32,
+    "CodeString": "+32",
     "Length": 9
   },
   {
     "Country": "Belize",
-    "Code": 501,
+    "CodeNumber": 501,
+    "CodeString": "+501",
     "Length": 7
   },
   {
     "Country": "Benin",
-    "Code": 229,
+    "CodeNumber": 229,
+    "CodeString": "+229",
     "Length": 6
   },
   {
     "Country": "Benin",
-    "Code": 229,
+    "CodeNumber": 229,
+    "CodeString": "+229",
     "Length": 7
   },
   {
     "Country": "Benin",
-    "Code": 229,
+    "CodeNumber": 229,
+    "CodeString": "+229",
     "Length": 8
   },
   {
     "Country": "Benin",
-    "Code": 229,
+    "CodeNumber": 229,
+    "CodeString": "+229",
     "Length": 9
   },
   {
     "Country": "Bermuda",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Bhutan",
-    "Code": 975,
+    "CodeNumber": 975,
+    "CodeString": "+975",
     "Length": 0
   },
   {
     "Country": "Bolivia",
-    "Code": 591,
+    "CodeNumber": 591,
+    "CodeString": "+591",
     "Length": 0
   },
   {
     "Country": "Bonaire",
-    "Code": 599,
+    "CodeNumber": 599,
+    "CodeString": "+599",
     "Length": 0
   },
   {
     "Country": "Bosnia and Herzegovina (Bosnia-Herzegovina)",
-    "Code": 387,
+    "CodeNumber": 387,
+    "CodeString": "+387",
     "Length": 8
   },
   {
     "Country": "Botswana",
-    "Code": 267,
+    "CodeNumber": 267,
+    "CodeString": "+267",
     "Length": 0
   },
   {
     "Country": "Brazil",
-    "Code": 55,
+    "CodeNumber": 55,
+    "CodeString": "+55",
     "Length": 11
   },
   {
     "Country": "British Indian Ocean Territory",
-    "Code": 246,
+    "CodeNumber": 246,
+    "CodeString": "+246",
     "Length": 7
   },
   {
     "Country": "British Virgin Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Brunei",
-    "Code": 673,
+    "CodeNumber": 673,
+    "CodeString": "+673",
     "Length": 0
   },
   {
     "Country": "Bulgaria",
-    "Code": 359,
+    "CodeNumber": 359,
+    "CodeString": "+359",
     "Length": 0
   },
   {
     "Country": "Bulgaria",
-    "Code": 359,
+    "CodeNumber": 359,
+    "CodeString": "+359",
     "Length": 9
   },
   {
     "Country": "Burkina Faso",
-    "Code": 226,
+    "CodeNumber": 226,
+    "CodeString": "+226",
     "Length": 8
   },
   {
     "Country": "Burma",
-    "Code": 95,
+    "CodeNumber": 95,
+    "CodeString": "+95",
     "Length": 0
   },
   {
     "Country": "Burundi",
-    "Code": 257,
+    "CodeNumber": 257,
+    "CodeString": "+257",
     "Length": 0
   },
   {
     "Country": "Cambodia",
-    "Code": 855,
+    "CodeNumber": 855,
+    "CodeString": "+855",
     "Length": 9
   },
   {
     "Country": "Cameroon",
-    "Code": 237,
+    "CodeNumber": 237,
+    "CodeString": "+237",
     "Length": 0
   },
   {
     "Country": "Canada",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Canary Islands",
-    "Code": 34,
+    "CodeNumber": 34,
+    "CodeString": "+34",
     "Length": 0
   },
   {
     "Country": "Cape Verde",
-    "Code": 238,
+    "CodeNumber": 238,
+    "CodeString": "+238",
     "Length": 0
   },
   {
     "Country": "Cayman Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Central African Republic",
-    "Code": 236,
+    "CodeNumber": 236,
+    "CodeString": "+236",
     "Length": 0
   },
   {
     "Country": "Ceuta",
-    "Code": 34,
+    "CodeNumber": 34,
+    "CodeString": "+34",
     "Length": 0
   },
   {
     "Country": "Chad",
-    "Code": 235,
+    "CodeNumber": 235,
+    "CodeString": "+235",
     "Length": 8
   },
   {
     "Country": "Chagos Islands",
-    "Code": 246,
+    "CodeNumber": 246,
+    "CodeString": "+246",
     "Length": 7
   },
   {
     "Country": "Chile",
-    "Code": 56,
+    "CodeNumber": 56,
+    "CodeString": "+56",
     "Length": 9
   },
   {
     "Country": "People's Republic of China",
-    "Code": 86,
+    "CodeNumber": 86,
+    "CodeString": "+86",
     "Length": 11
   },
   {
     "Country": "People's Republic of China",
-    "Code": 86,
+    "CodeNumber": 86,
+    "CodeString": "+86",
     "Length": 13
   },
   {
     "Country": "Christmas Island",
-    "Code": 61,
+    "CodeNumber": 61,
+    "CodeString": "+61",
     "Length": 0
   },
   {
     "Country": "Cocos (Keeling) Islands",
-    "Code": 61,
+    "CodeNumber": 61,
+    "CodeString": "+61",
     "Length": 0
   },
   {
     "Country": "Colombia",
-    "Code": 57,
+    "CodeNumber": 57,
+    "CodeString": "+57",
     "Length": 10
   },
   {
     "Country": "Comoros",
-    "Code": 269,
+    "CodeNumber": 269,
+    "CodeString": "+269",
     "Length": 0
   },
   {
     "Country": "Republic of Congo",
-    "Code": 242,
+    "CodeNumber": 242,
+    "CodeString": "+242",
     "Length": 0
   },
   {
     "Country": "Democratic Republic of Congo",
-    "Code": 243,
+    "CodeNumber": 243,
+    "CodeString": "+243",
     "Length": 0
   },
   {
     "Country": "Cook Islands",
-    "Code": 682,
+    "CodeNumber": 682,
+    "CodeString": "+682",
     "Length": 5
   },
   {
     "Country": "Costa Rica",
-    "Code": 506,
+    "CodeNumber": 506,
+    "CodeString": "+506",
     "Length": 8
   },
   {
     "Country": "Croatia",
-    "Code": 385,
+    "CodeNumber": 385,
+    "CodeString": "+385",
     "Length": 9
   },
   {
     "Country": "Cuba",
-    "Code": 53,
+    "CodeNumber": 53,
+    "CodeString": "+53",
     "Length": 0
   },
   {
     "Country": "Curaçao",
-    "Code": 599,
+    "CodeNumber": 599,
+    "CodeString": "+599",
     "Length": 0
   },
   {
     "Country": "Curaçao and the Caribbean Netherlands",
-    "Code": 599,
+    "CodeNumber": 599,
+    "CodeString": "+599",
     "Length": 0
   },
   {
     "Country": "Cyprus",
-    "Code": 357,
+    "CodeNumber": 357,
+    "CodeString": "+357",
     "Length": 8
   },
   {
     "Country": "Czech Republic",
-    "Code": 420,
+    "CodeNumber": 420,
+    "CodeString": "+420",
     "Length": 9
   },
   {
     "Country": "Denmark",
-    "Code": 45,
+    "CodeNumber": 45,
+    "CodeString": "+45",
     "Length": 8
   },
   {
     "Country": "Diego Garcia",
-    "Code": 246,
+    "CodeNumber": 246,
+    "CodeString": "+246",
     "Length": 7
   },
   {
     "Country": "Djibouti",
-    "Code": 253,
+    "CodeNumber": 253,
+    "CodeString": "+253",
     "Length": 0
   },
   {
     "Country": "Dominica",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Dominican Republic",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "East Timor",
-    "Code": 670,
+    "CodeNumber": 670,
+    "CodeString": "+670",
     "Length": 8
   },
   {
     "Country": "Easter Island",
-    "Code": 56,
+    "CodeNumber": 56,
+    "CodeString": "+56",
     "Length": 0
   },
   {
     "Country": "Ecuador",
-    "Code": 593,
+    "CodeNumber": 593,
+    "CodeString": "+593",
     "Length": 0
   },
   {
     "Country": "Ecuador",
-    "Code": 593,
+    "CodeNumber": 593,
+    "CodeString": "+593",
     "Length": 9
   },
   {
     "Country": "Egypt",
-    "Code": 20,
+    "CodeNumber": 20,
+    "CodeString": "+20",
     "Length": 10
   },
   {
     "Country": "El Salvador",
-    "Code": 503,
+    "CodeNumber": 503,
+    "CodeString": "+503",
     "Length": 8
   },
   {
     "Country": "England",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Equatorial Guinea",
-    "Code": 240,
+    "CodeNumber": 240,
+    "CodeString": "+240",
     "Length": 0
   },
   {
     "Country": "Eritrea",
-    "Code": 291,
+    "CodeNumber": 291,
+    "CodeString": "+291",
     "Length": 0
   },
   {
     "Country": "Estonia",
-    "Code": 372,
+    "CodeNumber": 372,
+    "CodeString": "+372",
     "Length": 0
   },
   {
     "Country": "Ethiopia",
-    "Code": 251,
+    "CodeNumber": 251,
+    "CodeString": "+251",
     "Length": 0
   },
   {
     "Country": "Eswatini",
-    "Code": 268,
+    "CodeNumber": 268,
+    "CodeString": "+268",
     "Length": 8
   },
   {
     "Country": "Falkland Islands",
-    "Code": 500,
+    "CodeNumber": 500,
+    "CodeString": "+500",
     "Length": 5
   },
   {
     "Country": "Faroe Islands",
-    "Code": 298,
+    "CodeNumber": 298,
+    "CodeString": "+298",
     "Length": 5
   },
   {
     "Country": "Federated States of Micronesia",
-    "Code": 691,
+    "CodeNumber": 691,
+    "CodeString": "+691",
     "Length": 7
   },
   {
     "Country": "Fiji",
-    "Code": 679,
+    "CodeNumber": 679,
+    "CodeString": "+679",
     "Length": 0
   },
   {
     "Country": "Finland",
-    "Code": 358,
+    "CodeNumber": 358,
+    "CodeString": "+358",
     "Length": 0
   },
   {
     "Country": "Finland",
-    "Code": 358,
+    "CodeNumber": 358,
+    "CodeString": "+358",
     "Length": 10
   },
   {
     "Country": "France",
-    "Code": 33,
+    "CodeNumber": 33,
+    "CodeString": "+33",
     "Length": 9
   },
   {
     "Country": "French Overseas Departments and Territories",
-    "Code": 262,
+    "CodeNumber": 262,
+    "CodeString": "+262",
     "Length": 0
   },
   {
     "Country": "French Overseas Departments and Territories",
-    "Code": 508,
+    "CodeNumber": 508,
+    "CodeString": "+508",
     "Length": 0
   },
   {
     "Country": "French Overseas Departments and Territories",
-    "Code": 590,
+    "CodeNumber": 590,
+    "CodeString": "+590",
     "Length": 0
   },
   {
     "Country": "French Overseas Departments and Territories",
-    "Code": 594,
+    "CodeNumber": 594,
+    "CodeString": "+594",
     "Length": 0
   },
   {
     "Country": "French Overseas Departments and Territories",
-    "Code": 596,
+    "CodeNumber": 596,
+    "CodeString": "+596",
     "Length": 0
   },
   {
     "Country": "French Guiana",
-    "Code": 594,
+    "CodeNumber": 594,
+    "CodeString": "+594",
     "Length": 9
   },
   {
     "Country": "French Guiana",
-    "Code": 594,
+    "CodeNumber": 594,
+    "CodeString": "+594",
     "Length": 12
   },
   {
     "Country": "French Polynesia",
-    "Code": 689,
+    "CodeNumber": 689,
+    "CodeString": "+689",
     "Length": 6
   },
   {
     "Country": "Gabon",
-    "Code": 241,
+    "CodeNumber": 241,
+    "CodeString": "+241",
     "Length": 7
   },
   {
     "Country": "Gambia",
-    "Code": 220,
+    "CodeNumber": 220,
+    "CodeString": "+220",
     "Length": 0
   },
   {
     "Country": "Georgia",
-    "Code": 995,
+    "CodeNumber": 995,
+    "CodeString": "+995",
     "Length": 9
   },
   {
     "Country": "Germany",
-    "Code": 49,
+    "CodeNumber": 49,
+    "CodeString": "+49",
     "Length": 10
   },
   {
     "Country": "Germany",
-    "Code": 49,
+    "CodeNumber": 49,
+    "CodeString": "+49",
     "Length": 10
   },
   {
     "Country": "Germany",
-    "Code": 49,
+    "CodeNumber": 49,
+    "CodeString": "+49",
     "Length": 11
   },
   {
     "Country": "Ghana",
-    "Code": 233,
+    "CodeNumber": 233,
+    "CodeString": "+233",
     "Length": 9
   },
   {
     "Country": "Gibraltar",
-    "Code": 350,
+    "CodeNumber": 350,
+    "CodeString": "+350",
     "Length": 0
   },
   {
     "Country": "Greece",
-    "Code": 30,
+    "CodeNumber": 30,
+    "CodeString": "+30",
     "Length": 10
   },
   {
     "Country": "Greenland",
-    "Code": 299,
+    "CodeNumber": 299,
+    "CodeString": "+299",
     "Length": 6
   },
   {
     "Country": "Grenada",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Guadeloupe",
-    "Code": 590,
+    "CodeNumber": 590,
+    "CodeString": "+590",
     "Length": 9
   },
   {
     "Country": "Guadeloupe",
-    "Code": 590,
+    "CodeNumber": 590,
+    "CodeString": "+590",
     "Length": 12
   },
   {
     "Country": "Guam",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Guatemala",
-    "Code": 502,
+    "CodeNumber": 502,
+    "CodeString": "+502",
     "Length": 8
   },
   {
     "Country": "Guernsey",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Guinea",
-    "Code": 224,
+    "CodeNumber": 224,
+    "CodeString": "+224",
     "Length": 0
   },
   {
     "Country": "Guinea-Bissau",
-    "Code": 245,
+    "CodeNumber": 245,
+    "CodeString": "+245",
     "Length": 0
   },
   {
     "Country": "Guyana",
-    "Code": 592,
+    "CodeNumber": 592,
+    "CodeString": "+592",
     "Length": 0
   },
   {
     "Country": "Haiti",
-    "Code": 509,
+    "CodeNumber": 509,
+    "CodeString": "+509",
     "Length": 0
   },
   {
     "Country": "Hawaii",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Honduras",
-    "Code": 504,
+    "CodeNumber": 504,
+    "CodeString": "+504",
     "Length": 8
   },
   {
     "Country": "Hong Kong",
-    "Code": 852,
+    "CodeNumber": 852,
+    "CodeString": "+852",
     "Length": 8
   },
   {
     "Country": "Hungary",
-    "Code": 36,
+    "CodeNumber": 36,
+    "CodeString": "+36",
     "Length": 9
   },
   {
     "Country": "Iceland",
-    "Code": 354,
+    "CodeNumber": 354,
+    "CodeString": "+354",
     "Length": 0
   },
   {
     "Country": "India",
-    "Code": 91,
+    "CodeNumber": 91,
+    "CodeString": "+91",
     "Length": 10
   },
   {
     "Country": "Indonesia",
-    "Code": 62,
+    "CodeNumber": 62,
+    "CodeString": "+62",
     "Length": 9
   },
   {
     "Country": "Indonesia",
-    "Code": 62,
+    "CodeNumber": 62,
+    "CodeString": "+62",
     "Length": 10
   },
   {
     "Country": "Indonesia",
-    "Code": 62,
+    "CodeNumber": 62,
+    "CodeString": "+62",
     "Length": 11
   },
   {
     "Country": "Indonesia",
-    "Code": 62,
+    "CodeNumber": 62,
+    "CodeString": "+62",
     "Length": 10
   },
   {
     "Country": "Indonesia",
-    "Code": 62,
+    "CodeNumber": 62,
+    "CodeString": "+62",
     "Length": 9
   },
   {
     "Country": "Iran",
-    "Code": 98,
+    "CodeNumber": 98,
+    "CodeString": "+98",
     "Length": 0
   },
   {
     "Country": "Iran",
-    "Code": 98,
+    "CodeNumber": 98,
+    "CodeString": "+98",
     "Length": 10
   },
   {
     "Country": "Iraq",
-    "Code": 964,
+    "CodeNumber": 964,
+    "CodeString": "+964",
     "Length": 0
   },
   {
     "Country": "Ireland",
-    "Code": 353,
+    "CodeNumber": 353,
+    "CodeString": "+353",
     "Length": 9
   },
   {
     "Country": "Isle of Man",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Israel",
-    "Code": 972,
+    "CodeNumber": 972,
+    "CodeString": "+972",
     "Length": 9
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 10
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 13
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 12
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 9
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 10
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 12
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 12
   },
   {
     "Country": "Italy",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 12
   },
   {
     "Country": "Ivory Coast",
-    "Code": 225,
+    "CodeNumber": 225,
+    "CodeString": "+225",
     "Length": 0
   },
   {
     "Country": "Jamaica",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Jan Mayen",
-    "Code": 47,
+    "CodeNumber": 47,
+    "CodeString": "+47",
     "Length": 0
   },
   {
     "Country": "Japan",
-    "Code": 81,
+    "CodeNumber": 81,
+    "CodeString": "+81",
     "Length": 11
   },
   {
     "Country": "Jersey",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Jordan",
-    "Code": 962,
+    "CodeNumber": 962,
+    "CodeString": "+962",
     "Length": 0
   },
   {
     "Country": "Kazakhstan",
-    "Code": 7,
+    "CodeNumber": 7,
+    "CodeString": "+7",
     "Length": 10
   },
   {
     "Country": "Kenya",
-    "Code": 254,
+    "CodeNumber": 254,
+    "CodeString": "+254",
     "Length": 10
   },
   {
     "Country": "Kiribati",
-    "Code": 686,
+    "CodeNumber": 686,
+    "CodeString": "+686",
     "Length": 8
   },
   {
     "Country": "Kosovo",
-    "Code": 383,
+    "CodeNumber": 383,
+    "CodeString": "+383",
     "Length": 8
   },
   {
     "Country": "Kuwait",
-    "Code": 965,
+    "CodeNumber": 965,
+    "CodeString": "+965",
     "Length": 8
   },
   {
     "Country": "Kyrgyzstan",
-    "Code": 996,
+    "CodeNumber": 996,
+    "CodeString": "+996",
     "Length": 0
   },
   {
     "Country": "Laos",
-    "Code": 856,
+    "CodeNumber": 856,
+    "CodeString": "+856",
     "Length": 0
   },
   {
     "Country": "Latvia",
-    "Code": 371,
+    "CodeNumber": 371,
+    "CodeString": "+371",
     "Length": 8
   },
   {
     "Country": "Lebanon",
-    "Code": 961,
+    "CodeNumber": 961,
+    "CodeString": "+961",
     "Length": 7
   },
   {
     "Country": "Lebanon",
-    "Code": 961,
+    "CodeNumber": 961,
+    "CodeString": "+961",
     "Length": 8
   },
   {
     "Country": "Lesotho",
-    "Code": 266,
+    "CodeNumber": 266,
+    "CodeString": "+266",
     "Length": 0
   },
   {
     "Country": "Liberia",
-    "Code": 231,
+    "CodeNumber": 231,
+    "CodeString": "+231",
     "Length": 7
   },
   {
     "Country": "Liberia",
-    "Code": 231,
+    "CodeNumber": 231,
+    "CodeString": "+231",
     "Length": 8
   },
   {
     "Country": "Libya",
-    "Code": 218,
+    "CodeNumber": 218,
+    "CodeString": "+218",
     "Length": 10
   },
   {
     "Country": "Liechtenstein",
-    "Code": 423,
+    "CodeNumber": 423,
+    "CodeString": "+423",
     "Length": 0
   },
   {
     "Country": "Lithuania",
-    "Code": 370,
+    "CodeNumber": 370,
+    "CodeString": "+370",
     "Length": 8
   },
   {
     "Country": "Luxembourg",
-    "Code": 352,
+    "CodeNumber": 352,
+    "CodeString": "+352",
     "Length": 9
   },
   {
     "Country": "Macau",
-    "Code": 853,
+    "CodeNumber": 853,
+    "CodeString": "+853",
     "Length": 0
   },
   {
     "Country": "Madagascar",
-    "Code": 261,
+    "CodeNumber": 261,
+    "CodeString": "+261",
     "Length": 0
   },
   {
     "Country": "Madeira",
-    "Code": 351,
+    "CodeNumber": 351,
+    "CodeString": "+351",
     "Length": 0
   },
   {
     "Country": "Malawi",
-    "Code": 265,
+    "CodeNumber": 265,
+    "CodeString": "+265",
     "Length": 0
   },
   {
     "Country": "Malawi",
-    "Code": 265,
+    "CodeNumber": 265,
+    "CodeString": "+265",
     "Length": 0
   },
   {
     "Country": "Malaysia",
-    "Code": 60,
+    "CodeNumber": 60,
+    "CodeString": "+60",
     "Length": 0
   },
   {
     "Country": "Malaysia",
-    "Code": 60,
+    "CodeNumber": 60,
+    "CodeString": "+60",
     "Length": 7
   },
   {
     "Country": "Maldives",
-    "Code": 960,
+    "CodeNumber": 960,
+    "CodeString": "+960",
     "Length": 7
   },
   {
     "Country": "Mali",
-    "Code": 223,
+    "CodeNumber": 223,
+    "CodeString": "+223",
     "Length": 0
   },
   {
     "Country": "Mali",
-    "Code": 223,
+    "CodeNumber": 223,
+    "CodeString": "+223",
     "Length": 8
   },
   {
     "Country": "Malta",
-    "Code": 356,
+    "CodeNumber": 356,
+    "CodeString": "+356",
     "Length": 0
   },
   {
     "Country": "Marshall Islands",
-    "Code": 692,
+    "CodeNumber": 692,
+    "CodeString": "+692",
     "Length": 7
   },
   {
     "Country": "Martinique",
-    "Code": 596,
+    "CodeNumber": 596,
+    "CodeString": "+596",
     "Length": 9
   },
   {
     "Country": "Martinique",
-    "Code": 596,
+    "CodeNumber": 596,
+    "CodeString": "+596",
     "Length": 12
   },
   {
     "Country": "Mauritania",
-    "Code": 222,
+    "CodeNumber": 222,
+    "CodeString": "+222",
     "Length": 0
   },
   {
     "Country": "Mauritius",
-    "Code": 230,
+    "CodeNumber": 230,
+    "CodeString": "+230",
     "Length": 8
   },
   {
     "Country": "Mayotte",
-    "Code": 262,
+    "CodeNumber": 262,
+    "CodeString": "+262",
     "Length": 0
   },
   {
     "Country": "Melilla",
-    "Code": 34,
+    "CodeNumber": 34,
+    "CodeString": "+34",
     "Length": 0
   },
   {
     "Country": "Mexico",
-    "Code": 52,
+    "CodeNumber": 52,
+    "CodeString": "+52",
     "Length": 10
   },
   {
     "Country": "Moldova",
-    "Code": 373,
+    "CodeNumber": 373,
+    "CodeString": "+373",
     "Length": 8
   },
   {
     "Country": "Monaco",
-    "Code": 377,
+    "CodeNumber": 377,
+    "CodeString": "+377",
     "Length": 0
   },
   {
     "Country": "Mongolia",
-    "Code": 976,
+    "CodeNumber": 976,
+    "CodeString": "+976",
     "Length": 8
   },
   {
     "Country": "Montenegro",
-    "Code": 382,
+    "CodeNumber": 382,
+    "CodeString": "+382",
     "Length": 8
   },
   {
     "Country": "Montserrat",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Morocco",
-    "Code": 212,
+    "CodeNumber": 212,
+    "CodeString": "+212",
     "Length": 0
   },
   {
     "Country": "Mozambique",
-    "Code": 258,
+    "CodeNumber": 258,
+    "CodeString": "+258",
     "Length": 0
   },
   {
     "Country": "Myanmar",
-    "Code": 95,
+    "CodeNumber": 95,
+    "CodeString": "+95",
     "Length": 8
   },
   {
     "Country": "Myanmar",
-    "Code": 95,
+    "CodeNumber": 95,
+    "CodeString": "+95",
     "Length": 10
   },
   {
     "Country": "Myanmar",
-    "Code": 95,
+    "CodeNumber": 95,
+    "CodeString": "+95",
     "Length": 9
   },
   {
     "Country": "Artsakh",
-    "Code": 374,
+    "CodeNumber": 374,
+    "CodeString": "+374",
     "Length": 0
   },
   {
     "Country": "Namibia",
-    "Code": 264,
+    "CodeNumber": 264,
+    "CodeString": "+264",
     "Length": 0
   },
   {
     "Country": "Nauru",
-    "Code": 674,
+    "CodeNumber": 674,
+    "CodeString": "+674",
     "Length": 0
   },
   {
     "Country": "Nepal",
-    "Code": 977,
+    "CodeNumber": 977,
+    "CodeString": "+977",
     "Length": 10
   },
   {
     "Country": "Netherlands",
-    "Code": 31,
+    "CodeNumber": 31,
+    "CodeString": "+31",
     "Length": 9
   },
   {
     "Country": "New Caledonia",
-    "Code": 687,
+    "CodeNumber": 687,
+    "CodeString": "+687",
     "Length": 6
   },
   {
     "Country": "New Zealand",
-    "Code": 64,
+    "CodeNumber": 64,
+    "CodeString": "+64",
     "Length": 0
   },
   {
     "Country": "New Zealand",
-    "Code": 64,
+    "CodeNumber": 64,
+    "CodeString": "+64",
     "Length": 8
   },
   {
     "Country": "New Zealand",
-    "Code": 64,
+    "CodeNumber": 64,
+    "CodeString": "+64",
     "Length": 9
   },
   {
     "Country": "New Zealand",
-    "Code": 64,
+    "CodeNumber": 64,
+    "CodeString": "+64",
     "Length": 10
   },
   {
     "Country": "Nicaragua",
-    "Code": 505,
+    "CodeNumber": 505,
+    "CodeString": "+505",
     "Length": 8
   },
   {
     "Country": "Niger",
-    "Code": 227,
+    "CodeNumber": 227,
+    "CodeString": "+227",
     "Length": 8
   },
   {
     "Country": "Nigeria",
-    "Code": 234,
+    "CodeNumber": 234,
+    "CodeString": "+234",
     "Length": 8
   },
   {
     "Country": "Niue",
-    "Code": 683,
+    "CodeNumber": 683,
+    "CodeString": "+683",
     "Length": 4
   },
   {
     "Country": "Norfolk Island",
-    "Code": 672,
+    "CodeNumber": 672,
+    "CodeString": "+672",
     "Length": 6
   },
   {
     "Country": "North Korea",
-    "Code": 850,
+    "CodeNumber": 850,
+    "CodeString": "+850",
     "Length": 0
   },
   {
     "Country": "North Macedonia",
-    "Code": 389,
+    "CodeNumber": 389,
+    "CodeString": "+389",
     "Length": 8
   },
   {
     "Country": "Northern Cyprus",
-    "Code": 90,
+    "CodeNumber": 90,
+    "CodeString": "+90",
     "Length": 7
   },
   {
     "Country": "Northern Cyprus",
-    "Code": 90,
+    "CodeNumber": 90,
+    "CodeString": "+90",
     "Length": 0
   },
   {
     "Country": "Northern Ireland",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Northern Mariana Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Norway",
-    "Code": 47,
+    "CodeNumber": 47,
+    "CodeString": "+47",
     "Length": 8
   },
   {
     "Country": "Oman",
-    "Code": 968,
+    "CodeNumber": 968,
+    "CodeString": "+968",
     "Length": 8
   },
   {
     "Country": "Oman",
-    "Code": 968,
+    "CodeNumber": 968,
+    "CodeString": "+968",
     "Length": 0
   },
   {
     "Country": "Oman",
-    "Code": 968,
+    "CodeNumber": 968,
+    "CodeString": "+968",
     "Length": 0
   },
   {
     "Country": "Pakistan",
-    "Code": 92,
+    "CodeNumber": 92,
+    "CodeString": "+92",
     "Length": 10
   },
   {
     "Country": "Palau",
-    "Code": 680,
+    "CodeNumber": 680,
+    "CodeString": "+680",
     "Length": 7
   },
   {
     "Country": "Palestine, State of",
-    "Code": 970,
+    "CodeNumber": 970,
+    "CodeString": "+970",
     "Length": 9
   },
   {
     "Country": "Palestine, State of",
-    "Code": 972,
+    "CodeNumber": 972,
+    "CodeString": "+972",
     "Length": 9
   },
   {
     "Country": "Panama",
-    "Code": 507,
+    "CodeNumber": 507,
+    "CodeString": "+507",
     "Length": 8
   },
   {
     "Country": "Papua New Guinea",
-    "Code": 675,
+    "CodeNumber": 675,
+    "CodeString": "+675",
     "Length": 0
   },
   {
     "Country": "Paraguay",
-    "Code": 595,
+    "CodeNumber": 595,
+    "CodeString": "+595",
     "Length": 9
   },
   {
     "Country": "Peru",
-    "Code": 51,
+    "CodeNumber": 51,
+    "CodeString": "+51",
     "Length": 9
   },
   {
     "Country": "Philippines",
-    "Code": 63,
+    "CodeNumber": 63,
+    "CodeString": "+63",
     "Length": 10
   },
   {
     "Country": "Pitcairn Islands",
-    "Code": 64,
+    "CodeNumber": 64,
+    "CodeString": "+64",
     "Length": 0
   },
   {
     "Country": "Plazas de soberanía",
-    "Code": 34,
+    "CodeNumber": 34,
+    "CodeString": "+34",
     "Length": 0
   },
   {
     "Country": "Poland",
-    "Code": 48,
+    "CodeNumber": 48,
+    "CodeString": "+48",
     "Length": 9
   },
   {
     "Country": "Portugal",
-    "Code": 351,
+    "CodeNumber": 351,
+    "CodeString": "+351",
     "Length": 9
   },
   {
     "Country": "Príncipe",
-    "Code": 239,
+    "CodeNumber": 239,
+    "CodeString": "+239",
     "Length": 0
   },
   {
     "Country": "Puerto Rico",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Qatar",
-    "Code": 974,
+    "CodeNumber": 974,
+    "CodeString": "+974",
     "Length": 8
   },
   {
     "Country": "Réunion",
-    "Code": 262,
+    "CodeNumber": 262,
+    "CodeString": "+262",
     "Length": 9
   },
   {
     "Country": "Réunion",
-    "Code": 262,
+    "CodeNumber": 262,
+    "CodeString": "+262",
     "Length": 12
   },
   {
     "Country": "Romania",
-    "Code": 40,
+    "CodeNumber": 40,
+    "CodeString": "+40",
     "Length": 10
   },
   {
     "Country": "Russia (Russian Federation)",
-    "Code": 7,
+    "CodeNumber": 7,
+    "CodeString": "+7",
     "Length": 10
   },
   {
     "Country": "Rwanda",
-    "Code": 250,
+    "CodeNumber": 250,
+    "CodeString": "+250",
     "Length": 0
   },
   {
     "Country": "Saba",
-    "Code": 599,
+    "CodeNumber": 599,
+    "CodeString": "+599",
     "Length": 0
   },
   {
     "Country": "Sahrawi Arab Democratic Republic",
-    "Code": 212,
+    "CodeNumber": 212,
+    "CodeString": "+212",
     "Length": 0
   },
   {
     "Country": "Saint Barthélemy",
-    "Code": 590,
+    "CodeNumber": 590,
+    "CodeString": "+590",
     "Length": 0
   },
   {
     "Country": "Saint Helena and Tristan da Cunha (not Ascenscion)",
-    "Code": 290,
+    "CodeNumber": 290,
+    "CodeString": "+290",
     "Length": 4
   },
   {
     "Country": "Saint Kitts and Nevis",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Saint Lucia",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Collectivity of Saint Martin",
-    "Code": 590,
+    "CodeNumber": 590,
+    "CodeString": "+590",
     "Length": 0
   },
   {
     "Country": "Saint Pierre and Miquelon",
-    "Code": 508,
+    "CodeNumber": 508,
+    "CodeString": "+508",
     "Length": 0
   },
   {
     "Country": "Saint Vincent and the Grenadines",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Samoa",
-    "Code": 685,
+    "CodeNumber": 685,
+    "CodeString": "+685",
     "Length": 5
   },
   {
     "Country": "San Marino",
-    "Code": 378,
+    "CodeNumber": 378,
+    "CodeString": "+378",
     "Length": 0
   },
   {
     "Country": "São Tomé and Príncipe",
-    "Code": 239,
+    "CodeNumber": 239,
+    "CodeString": "+239",
     "Length": 0
   },
   {
     "Country": "Saudi Arabia",
-    "Code": 966,
+    "CodeNumber": 966,
+    "CodeString": "+966",
     "Length": 9
   },
   {
     "Country": "Scotland",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Senegal",
-    "Code": 221,
+    "CodeNumber": 221,
+    "CodeString": "+221",
     "Length": 0
   },
   {
     "Country": "Serbia",
-    "Code": 381,
+    "CodeNumber": 381,
+    "CodeString": "+381",
     "Length": 9
   },
   {
     "Country": "Serbia",
-    "Code": 381,
+    "CodeNumber": 381,
+    "CodeString": "+381",
     "Length": 8
   },
   {
     "Country": "Seychelles",
-    "Code": 248,
+    "CodeNumber": 248,
+    "CodeString": "+248",
     "Length": 0
   },
   {
     "Country": "Sierra Leone",
-    "Code": 232,
+    "CodeNumber": 232,
+    "CodeString": "+232",
     "Length": 0
   },
   {
     "Country": "Singapore",
-    "Code": 65,
+    "CodeNumber": 65,
+    "CodeString": "+65",
     "Length": 8
   },
   {
     "Country": "Sint Eustatius",
-    "Code": 599,
+    "CodeNumber": 599,
+    "CodeString": "+599",
     "Length": 0
   },
   {
     "Country": "Sint Maarten",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Slovakia (Slovak Republic)",
-    "Code": 421,
+    "CodeNumber": 421,
+    "CodeString": "+421",
     "Length": 9
   },
   {
     "Country": "Slovenia",
-    "Code": 386,
+    "CodeNumber": 386,
+    "CodeString": "+386",
     "Length": 0
   },
   {
     "Country": "Solomon Islands",
-    "Code": 677,
+    "CodeNumber": 677,
+    "CodeString": "+677",
     "Length": 7
   },
   {
     "Country": "Somalia",
-    "Code": 252,
+    "CodeNumber": 252,
+    "CodeString": "+252",
     "Length": 7
   },
   {
     "Country": "Somalia",
-    "Code": 252,
+    "CodeNumber": 252,
+    "CodeString": "+252",
     "Length": 8
   },
   {
     "Country": "South Africa",
-    "Code": 27,
+    "CodeNumber": 27,
+    "CodeString": "+27",
     "Length": 9
   },
   {
     "Country": "South Georgia and the South Sandwich Islands",
-    "Code": 500,
+    "CodeNumber": 500,
+    "CodeString": "+500",
     "Length": 0
   },
   {
     "Country": "South Korea",
-    "Code": 82,
+    "CodeNumber": 82,
+    "CodeString": "+82",
     "Length": 0
   },
   {
     "Country": "South Ossetia",
-    "Code": 995,
+    "CodeNumber": 995,
+    "CodeString": "+995",
     "Length": 0
   },
   {
     "Country": "South Sudan",
-    "Code": 211,
+    "CodeNumber": 211,
+    "CodeString": "+211",
     "Length": 0
   },
   {
     "Country": "Spain",
-    "Code": 34,
+    "CodeNumber": 34,
+    "CodeString": "+34",
     "Length": 9
   },
   {
     "Country": "Sri Lanka",
-    "Code": 94,
+    "CodeNumber": 94,
+    "CodeString": "+94",
     "Length": 7
   },
   {
     "Country": "Sudan",
-    "Code": 249,
+    "CodeNumber": 249,
+    "CodeString": "+249",
     "Length": 0
   },
   {
     "Country": "Suriname",
-    "Code": 597,
+    "CodeNumber": 597,
+    "CodeString": "+597",
     "Length": 0
   },
   {
     "Country": "Svalbard",
-    "Code": 47,
+    "CodeNumber": 47,
+    "CodeString": "+47",
     "Length": 0
   },
   {
     "Country": "Sweden",
-    "Code": 46,
+    "CodeNumber": 46,
+    "CodeString": "+46",
     "Length": 7
   },
   {
     "Country": "Sweden",
-    "Code": 46,
+    "CodeNumber": 46,
+    "CodeString": "+46",
     "Length": 10
   },
   {
     "Country": "Sweden",
-    "Code": 46,
+    "CodeNumber": 46,
+    "CodeString": "+46",
     "Length": 0
   },
   {
     "Country": "Switzerland",
-    "Code": 41,
+    "CodeNumber": 41,
+    "CodeString": "+41",
     "Length": 9
   },
   {
     "Country": "Syria",
-    "Code": 963,
+    "CodeNumber": 963,
+    "CodeString": "+963",
     "Length": 9
   },
   {
     "Country": "Taiwan",
-    "Code": 886,
+    "CodeNumber": 886,
+    "CodeString": "+886",
     "Length": 9
   },
   {
     "Country": "Tajikistan",
-    "Code": 992,
+    "CodeNumber": 992,
+    "CodeString": "+992",
     "Length": 0
   },
   {
     "Country": "Tanzania",
-    "Code": 255,
+    "CodeNumber": 255,
+    "CodeString": "+255",
     "Length": 0
   },
   {
     "Country": "Thailand",
-    "Code": 66,
+    "CodeNumber": 66,
+    "CodeString": "+66",
     "Length": 9
   },
   {
     "Country": "Togo",
-    "Code": 228,
+    "CodeNumber": 228,
+    "CodeString": "+228",
     "Length": 8
   },
   {
     "Country": "Tokelau",
-    "Code": 690,
+    "CodeNumber": 690,
+    "CodeString": "+690",
     "Length": 0
   },
   {
     "Country": "Tonga",
-    "Code": 676,
+    "CodeNumber": 676,
+    "CodeString": "+676",
     "Length": 0
   },
   {
     "Country": "Trinidad and Tobago",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Tristan da Cunha",
-    "Code": 290,
+    "CodeNumber": 290,
+    "CodeString": "+290",
     "Length": 0
   },
   {
     "Country": "Tunisia",
-    "Code": 216,
+    "CodeNumber": 216,
+    "CodeString": "+216",
     "Length": 8
   },
   {
     "Country": "Turkey",
-    "Code": 90,
+    "CodeNumber": 90,
+    "CodeString": "+90",
     "Length": 11
   },
   {
     "Country": "Turkmenistan",
-    "Code": 993,
+    "CodeNumber": 993,
+    "CodeString": "+993",
     "Length": 0
   },
   {
     "Country": "Turks and Caicos Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Tuvalu",
-    "Code": 688,
+    "CodeNumber": 688,
+    "CodeString": "+688",
     "Length": 0
   },
   {
     "Country": "Uganda",
-    "Code": 256,
+    "CodeNumber": 256,
+    "CodeString": "+256",
     "Length": 0
   },
   {
     "Country": "Ukraine",
-    "Code": 380,
+    "CodeNumber": 380,
+    "CodeString": "+380",
     "Length": 9
   },
   {
     "Country": "United Arab Emirates",
-    "Code": 971,
+    "CodeNumber": 971,
+    "CodeString": "+971",
     "Length": 9
   },
   {
     "Country": "United Kingdom",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "United States (USA)",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "United States Virgin Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Uruguay",
-    "Code": 598,
+    "CodeNumber": 598,
+    "CodeString": "+598",
     "Length": 0
   },
   {
     "Country": "Uzbekistan",
-    "Code": 998,
+    "CodeNumber": 998,
+    "CodeString": "+998",
     "Length": 0
   },
   {
     "Country": "Vanuatu",
-    "Code": 678,
+    "CodeNumber": 678,
+    "CodeString": "+678",
     "Length": 0
   },
   {
     "Country": "Vatican City",
-    "Code": 39,
+    "CodeNumber": 39,
+    "CodeString": "+39",
     "Length": 10
   },
   {
     "Country": "Venezuela",
-    "Code": 58,
+    "CodeNumber": 58,
+    "CodeString": "+58",
     "Length": 7
   },
   {
     "Country": "Vietnam",
-    "Code": 84,
+    "CodeNumber": 84,
+    "CodeString": "+84",
     "Length": 9
   },
   {
     "Country": "U.S. Virgin Islands",
-    "Code": 1,
+    "CodeNumber": 1,
+    "CodeString": "+1",
     "Length": 10
   },
   {
     "Country": "Wales",
-    "Code": 44,
+    "CodeNumber": 44,
+    "CodeString": "+44",
     "Length": 10
   },
   {
     "Country": "Wallis and Futuna",
-    "Code": 681,
+    "CodeNumber": 681,
+    "CodeString": "+681",
     "Length": 0
   },
   {
     "Country": "Western Sahara",
-    "Code": 212,
+    "CodeNumber": 212,
+    "CodeString": "+212",
     "Length": 0
   },
   {
     "Country": "Yemen",
-    "Code": 967,
+    "CodeNumber": 967,
+    "CodeString": "+967",
     "Length": 9
   },
   {
     "Country": "Zambia",
-    "Code": 260,
+    "CodeNumber": 260,
+    "CodeString": "+260",
     "Length": 0
   },
   {
     "Country": "Zimbabwe",
-    "Code": 263,
+    "CodeNumber": 263,
+    "CodeString": "+263",
     "Length": 0
   }
 ]

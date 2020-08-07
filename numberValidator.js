@@ -1,13 +1,13 @@
 // Srapped from: https://en.wikipedia.org/wiki/List_of_mobile_telephone_prefixes_by_country#cite_note-5
 var data = require('./csvjson.json')
-//124 ---> India
-console.log(data[300]); 
+//128 ---> India
+console.log(data[128]); 
 
 const validator = (code, phone)=>{
 
     length = phone.toString().length
     for (i =0; i< data.length;i++){
-        if(data[i]["Code"] === code){
+        if(data[i]["CodeString"] === code){
             if(data[i]["Length"] == 0 || data[i]["Length"] == length){
                 return true
             }
@@ -15,7 +15,7 @@ const validator = (code, phone)=>{
     }
     return false
 }
-const res = validator(1, 8130291250)
+const res = validator('+1', 8130291250)
 console.log("Result: ",res); 
 
 // A small gotcha ---> 
